@@ -25,7 +25,7 @@ Saída:
 Você não pode entrar. Menores de 18 anos não são permitidos.
 Idade verificada: 17 anos
 ```
-Exercício 2 — Contador de Pares (FOR e WHILE)
+## Exercício 2 — Contador de Pares (FOR e WHILE)
 Descrição: Desenvolva dois contadores de 1 a 100, exibindo apenas números pares: um utilizando for e outro utilizando while.
 
 Como executar:
@@ -40,7 +40,7 @@ Números pares de 1 a 100 (usando FOR):
 Números pares de 1 a 100 (usando WHILE):
 2 4 6 ... 100
 ```
-Exercício 3 — Lista de Alunos
+## Exercício 3 — Lista de Alunos
 Descrição: Crie um programa que recebe nomes de alunos dinamicamente e os armazena em uma lista, permitindo exibir todos ao final.
 
 Como executar:
@@ -61,7 +61,7 @@ Saída
 
 Total de alunos cadastrados: 2
 ```
-Exercício 4 — Cadastro de Produtos (Dicionários)
+## Exercício 4 — Cadastro de Produtos (Dicionários)
 Descrição: Desenvolva um sistema simples de cadastro de produtos com nome e preço, armazenando os dados em um dicionário.
 
 Como executar:
